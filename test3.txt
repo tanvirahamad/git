@@ -2,3 +2,4 @@ This is test3.
 It is updated version.
 now it edit from remote repo
 now it edit by branching
+now i solve the issue
