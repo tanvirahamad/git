@@ -3,3 +3,4 @@ It is updated version.
 now it edit from remote repo
 now it edit by branching
 now i solve the issue
+now i am solving the issue 
